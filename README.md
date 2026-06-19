@@ -15,3 +15,7 @@ This is the repo for the [project I posted to reddit](https://www.reddit.com/r/r
 
 That's pretty much it.
 You can go into a web browser to `http://ip:port` and press `enable stream` and you should see the webcam video, if you do, that means it worked. Enjoy.
+
+<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/a498cfa2-4081-419c-bd38-89da32e143eb" />
+<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/9ce2b221-10d1-4425-befd-da916ce51215" />
+<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/20cc1dad-39c8-44e2-bbe7-7a3ecb1e4cce" />
